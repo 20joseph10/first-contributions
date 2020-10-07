@@ -42,6 +42,7 @@
 - [S Bharath](http://github.com/sapprazz)
 - [Gabriel](https://github.com/ggg4briel)
 - [RITIK BHATT](https://github.com/bhattritik21)
+- [Saptarsi Saha](https://github.com/saptarsi96)
 - [AkiaCode](https://github.com/AkiaCode/S)
 - [Chirag Sharma](https://github.com/scyther)
 - [Lok Gubhaju](https://github.com/lokgubhaju)
@@ -6199,6 +6200,7 @@
 - [Deliana Escobari 👋😀](https://github.com/Sunny-Dee)
 - [Nat H]
 - [Joanna Zhou](https://github.com/JoannaZhou)
+- [Zhenxi Zhou](https://github.com/20joseph10)
 - Suzette
 - [Mayuri Kambli](https://github.com/mayurikambli)
 - [Monika Sivamoorthy](https://github.com/monikas-github)
